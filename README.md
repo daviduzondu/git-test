@@ -1,1 +1,1 @@
-This is my first GitHub Project and I love to code.
+This is my first GitHub Project and I love to code. I am very much interested in how computers work and stuff.
